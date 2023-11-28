@@ -15,7 +15,7 @@ Junior software developer passionate about writing clean, efficient, and maintai
       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/intelligibillius" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://ru.wikipedia.org/wiki/Telegram#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Telegram_2019_Logo.svg" width="40" height="40" alt="telegram group" />
     </a>
   </div>
 
