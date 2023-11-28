@@ -6,8 +6,6 @@
 
 Junior software developer passionate about writing clean, efficient, and maintainable code. Skilled in JavaScript constantly expanding knowledge of new technologies and best practices. Collaborative problem solver, team player and quick learner.
 
-- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/intelligibillius) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:limikhailigorevich@gmail.com)
-
 ---
 
 ### 🤝 Social networks:
