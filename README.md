@@ -6,6 +6,9 @@
 
 Junior software developer passionate about writing clean, efficient, and maintainable code. Skilled in JavaScript constantly expanding knowledge of new technologies and best practices. Collaborative problem solver, team player and quick learner.
 
+Check out my pet project 👇
+https://li-mikhail.github.io/953983-kekstagram-30/
+
 ---
 
 ### 🤝 Social networks:
