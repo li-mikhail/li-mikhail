@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: About:
+### 👨‍💻 About:
 
 Software developer passionate about writing clean, efficient, and maintainable code. Skilled in JavaScript constantly expanding knowledge of new technologies and best practices. Collaborative problem solver, team player and quick learner.
 
