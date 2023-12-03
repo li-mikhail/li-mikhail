@@ -52,5 +52,5 @@ Check out my pet project 👉 https://li-mikhail.github.io/953983-kekstagram-30/
 
 | Courses                                                                        | Period            |
 |--------------------------------------------------------------------------------|-------------------|
-| https://htmlacademy.ru/ JavaScript. Professional Development of Web Interfaces | 09/2023 - 12/2023 |
+| JavaScript. Professional Development of Web Interfaces https://htmlacademy.ru/ | 09/2023 - 12/2023 |
 
