@@ -54,3 +54,6 @@ Check out my pet project 👉 https://li-mikhail.github.io/953983-kekstagram-30/
 |--------------------------------------------------------------------------------|-------------------|
 | JavaScript. Professional Development of Web Interfaces https://htmlacademy.ru/ | 09/2023 - 12/2023 |
 
+---
+
+[![codewars](https://www.codewars.com/users/li-mikhail/badges/large)](https://www.codewars.com/users/li-mikhail)   
