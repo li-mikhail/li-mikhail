@@ -56,4 +56,6 @@ Check out my pet project 👉 https://li-mikhail.github.io/953983-kekstagram-30/
 
 ---
 
+### 🧨 My CodeWars account:
+
 [![codewars](https://www.codewars.com/users/li-mikhail/badges/large)](https://www.codewars.com/users/li-mikhail)   
