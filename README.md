@@ -43,7 +43,7 @@ Check out my pet project 👉 https://li-mikhail.github.io/953983-kekstagram-30/
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="AfterEffects" alt="AfterEffects" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="adobeIllustrator" alt="adobeIllustrator" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Illustrator_CC_icon.png" title="adobeIllustrator" alt="adobeIllustrator" width="40" height="40"/>&nbsp;
 </div>
 
 ---
