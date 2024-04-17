@@ -41,7 +41,7 @@ Check out my pet project 👉 https://li-mikhail.github.io/953983-kekstagram-30/
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="AfterEffects" alt="AfterEffects" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="adobeIllustrator" alt="adobeIllustrator" width="40" height="40"/>&nbsp;
 </div>
