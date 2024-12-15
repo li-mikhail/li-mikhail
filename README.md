@@ -4,9 +4,7 @@
 
 ### 👨‍💻 About:
 
-Frontend developer skilled in JavaScript and Angular, focused on building efficient, maintainable code. Hands-on with new technology and problem-solving, with a strong background in UX/UI design to enhance user-centric development.
-
-Check out my project 👉 https://li-mikhail.github.io/953983-kekstagram-30/
+Frontend developer skilled in JavaScript and React JS, focused on building efficient, maintainable code. Hands-on with new technology and problem-solving, with a strong background in UX/UI design to enhance user-centric development.
 
 ---
 
