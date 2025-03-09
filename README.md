@@ -4,7 +4,14 @@
 
 ### 👨‍💻 About:
 
-Frontend developer skilled in JavaScript and React JS, focused on building efficient, maintainable code. Hands-on with new technology and problem-solving, with a strong background in UX/UI design to enhance user-centric development.
+I’m a Frontend Developer with a strong design background, creating 3D interactive web applications that make user interfaces come alive.
+
+I combine development and design thinking to build interfaces that are fast, responsive, and visually stunning.
+
+Technologies I use:
+React, Next.js, Three.js, GSAP, WebGL
+
+Skilled in UX/UI and Motion Design, with a background in graphic design that helps me create clean, engaging layouts. Experienced in performance optimization to ensure smooth and responsive user experiences.
 
 ---
 
